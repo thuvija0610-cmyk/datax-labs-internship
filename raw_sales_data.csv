@@ -1,0 +1,204 @@
+Customer ID,Customer Name,Gender,Age,Country,Purchase Date,Product,Sales Amount,Rating
+1001,Alice Johnson,Female,60.0,India,01/01/2023,Laptop,863.84,4.0
+1002,BOB SMITH,Male,50.0,USA,02/01/2023,Phone,2163.45,3.0
+1003,carol white,female,,india,03/01/2023,Tablet,1589.72,4.0
+1004,David Lee,M,64.0,United States,04/01/2023,Monitor,4114.13,4.0
+1005,Emma Brown,F,29.0,US,05/01/2023,Keyboard,2616.35,2.0
+1006,Alice Johnson,male,42.0,INDIA,06/01/2023,Laptop,4925.4,3.0
+1007,BOB SMITH,FEMALE,60.0,usa,07/01/2023,Phone,2294.71,
+1008,carol white,Male,40.0,India,08/01/2023,Tablet,4173.94,1.0
+1009,David Lee,female,,USA,09/01/2023,Monitor,,1.0
+1010,Emma Brown,M,32.0,India,10/01/2023,Keyboard,1178.23,5.0
+1011,Alice Johnson,Female,32.0,India,11/01/2023,Laptop,2786.89,3.0
+1012,BOB SMITH,Male,45.0,USA,12/01/2023,Phone,3631.16,3.0
+1013,carol white,female,57.0,india,13/01/2023,Tablet,4362.61,5.0
+1014,David Lee,M,61.0,United States,14/01/2023,Monitor,1966.82,4.0
+1015,Emma Brown,F,45.0,US,15/01/2023,Keyboard,1491.08,3.0
+1016,Alice Johnson,male,24.0,INDIA,16/01/2023,Laptop,3700.17,1.0
+1017,BOB SMITH,FEMALE,43.0,usa,17/01/2023,Phone,4142.75,1.0
+1018,carol white,Male,23.0,India,18/01/2023,Tablet,2069.0,2.0
+1019,David Lee,female,45.0,USA,19/01/2023,Monitor,932.79,3.0
+1020,Emma Brown,M,51.0,India,20/01/2023,Keyboard,4732.35,4.0
+1021,Alice Johnson,Female,59.0,India,21/01/2023,Laptop,2289.07,5.0
+1022,BOB SMITH,Male,23.0,USA,22/01/2023,Phone,2829.88,5.0
+1023,carol white,female,42.0,india,23/01/2023,Tablet,4269.7,4.0
+1024,David Lee,M,54.0,United States,24/01/2023,Monitor,,2.0
+1025,Emma Brown,F,33.0,US,25/01/2023,Keyboard,3808.47,5.0
+1026,Alice Johnson,male,43.0,INDIA,26/01/2023,Laptop,1440.82,3.0
+1027,BOB SMITH,FEMALE,,usa,27/01/2023,Phone,2936.52,2.0
+1028,carol white,Male,,India,28/01/2023,Tablet,3631.03,3.0
+1029,David Lee,female,63.0,USA,29/01/2023,Monitor,1528.48,1.0
+1030,Emma Brown,M,,India,30/01/2023,Keyboard,1287.3,2.0
+1031,Alice Johnson,Female,,India,31/01/2023,Laptop,4919.76,5.0
+1032,BOB SMITH,Male,36.0,USA,01/02/2023,Phone,2824.86,2.0
+1033,carol white,female,24.0,india,02/02/2023,Tablet,1673.73,2.0
+1034,David Lee,M,58.0,United States,03/02/2023,Monitor,4983.14,2.0
+1035,Emma Brown,F,28.0,US,04/02/2023,Keyboard,4844.39,2.0
+1036,Alice Johnson,male,42.0,INDIA,05/02/2023,Laptop,3012.32,3.0
+1037,BOB SMITH,FEMALE,30.0,usa,06/02/2023,Phone,4471.86,
+1038,carol white,Male,60.0,India,07/02/2023,Tablet,1349.18,4.0
+1039,David Lee,female,39.0,USA,08/02/2023,Monitor,1754.92,2.0
+1040,Emma Brown,M,25.0,India,09/02/2023,Keyboard,3651.61,5.0
+1041,Alice Johnson,Female,46.0,India,10/02/2023,Laptop,4309.98,2.0
+1042,BOB SMITH,Male,35.0,USA,11/02/2023,Phone,4353.46,5.0
+1043,carol white,female,30.0,india,12/02/2023,Tablet,2320.29,3.0
+1044,David Lee,M,47.0,United States,13/02/2023,Monitor,4494.97,5.0
+1045,Emma Brown,F,23.0,US,14/02/2023,Keyboard,4329.18,4.0
+1046,Alice Johnson,male,41.0,INDIA,15/02/2023,Laptop,4710.36,1.0
+1047,BOB SMITH,FEMALE,,usa,16/02/2023,Phone,,5.0
+1048,carol white,Male,28.0,India,17/02/2023,Tablet,3510.45,5.0
+1049,David Lee,female,,USA,18/02/2023,Monitor,3113.09,1.0
+1050,Emma Brown,M,56.0,India,19/02/2023,Keyboard,2175.27,4.0
+1051,Alice Johnson,Female,35.0,India,20/02/2023,Laptop,4730.6,2.0
+1052,BOB SMITH,Male,38.0,USA,21/02/2023,Phone,4881.49,5.0
+1053,carol white,female,57.0,india,22/02/2023,Tablet,1777.64,1.0
+1054,David Lee,M,61.0,United States,23/02/2023,Monitor,1874.14,3.0
+1055,Emma Brown,F,25.0,US,24/02/2023,Keyboard,2685.26,1.0
+1056,Alice Johnson,male,23.0,INDIA,25/02/2023,Laptop,2517.91,3.0
+1057,BOB SMITH,FEMALE,27.0,usa,26/02/2023,Phone,4975.06,4.0
+1058,carol white,Male,63.0,India,27/02/2023,Tablet,1291.66,2.0
+1059,David Lee,female,25.0,USA,28/02/2023,Monitor,581.34,
+1060,Emma Brown,M,50.0,India,01/03/2023,Keyboard,2722.52,5.0
+1061,Alice Johnson,Female,39.0,India,02/03/2023,Laptop,1304.7,4.0
+1062,BOB SMITH,Male,47.0,USA,03/03/2023,Phone,2149.11,1.0
+1063,carol white,female,55.0,india,04/03/2023,Tablet,3848.77,5.0
+1064,David Lee,M,31.0,United States,05/03/2023,Monitor,3744.23,1.0
+1065,Emma Brown,F,57.0,US,06/03/2023,Keyboard,1886.27,3.0
+1066,Alice Johnson,male,35.0,INDIA,07/03/2023,Laptop,2941.43,1.0
+1067,BOB SMITH,FEMALE,52.0,usa,08/03/2023,Phone,2789.66,1.0
+1068,carol white,Male,36.0,India,09/03/2023,Tablet,3363.5,1.0
+1069,David Lee,female,29.0,USA,10/03/2023,Monitor,1627.08,4.0
+1070,Emma Brown,M,35.0,India,11/03/2023,Keyboard,3154.42,1.0
+1071,Alice Johnson,Female,44.0,India,12/03/2023,Laptop,4905.02,5.0
+1072,BOB SMITH,Male,61.0,USA,13/03/2023,Phone,2690.34,3.0
+1073,carol white,female,42.0,india,14/03/2023,Tablet,4577.44,3.0
+1074,David Lee,M,37.0,United States,15/03/2023,Monitor,2454.77,1.0
+1075,Emma Brown,F,39.0,US,16/03/2023,Keyboard,2075.35,4.0
+1076,Alice Johnson,male,45.0,INDIA,17/03/2023,Laptop,3402.97,4.0
+1077,BOB SMITH,FEMALE,47.0,usa,18/03/2023,Phone,3510.16,5.0
+1078,carol white,Male,46.0,India,19/03/2023,Tablet,,1.0
+1079,David Lee,female,62.0,USA,20/03/2023,Monitor,1535.83,3.0
+1080,Emma Brown,M,50.0,India,21/03/2023,Keyboard,2746.37,4.0
+1081,Alice Johnson,Female,36.0,India,22/03/2023,Laptop,3074.02,1.0
+1082,BOB SMITH,Male,,USA,23/03/2023,Phone,3958.49,4.0
+1083,carol white,female,,india,24/03/2023,Tablet,696.22,4.0
+1084,David Lee,M,28.0,United States,25/03/2023,Monitor,4975.48,3.0
+1085,Emma Brown,F,30.0,US,26/03/2023,Keyboard,2614.75,
+1086,Alice Johnson,male,45.0,INDIA,27/03/2023,Laptop,1758.02,
+1087,BOB SMITH,FEMALE,22.0,usa,28/03/2023,Phone,4475.72,
+1088,carol white,Male,29.0,India,29/03/2023,Tablet,3864.73,3.0
+1089,David Lee,female,45.0,USA,30/03/2023,Monitor,4788.82,
+1090,Emma Brown,M,32.0,India,31/03/2023,Keyboard,1988.38,1.0
+1091,Alice Johnson,Female,38.0,India,01/04/2023,Laptop,2987.44,4.0
+1092,BOB SMITH,Male,29.0,USA,02/04/2023,Phone,3075.32,3.0
+1093,carol white,female,56.0,india,03/04/2023,Tablet,4911.49,5.0
+1094,David Lee,M,56.0,United States,04/04/2023,Monitor,839.06,4.0
+1095,Emma Brown,F,54.0,US,05/04/2023,Keyboard,1875.64,5.0
+1096,Alice Johnson,male,26.0,INDIA,06/04/2023,Laptop,1359.1,1.0
+1097,BOB SMITH,FEMALE,63.0,usa,07/04/2023,Phone,1708.14,5.0
+1098,carol white,Male,60.0,India,08/04/2023,Tablet,2683.76,5.0
+1099,David Lee,female,62.0,USA,09/04/2023,Monitor,,2.0
+1100,Emma Brown,M,49.0,India,10/04/2023,Keyboard,2276.11,2.0
+1101,Alice Johnson,Female,28.0,India,11/04/2023,Laptop,4298.96,2.0
+1102,BOB SMITH,Male,30.0,USA,12/04/2023,Phone,4685.08,5.0
+1103,carol white,female,29.0,india,13/04/2023,Tablet,,3.0
+1104,David Lee,M,33.0,United States,14/04/2023,Monitor,,5.0
+1105,Emma Brown,F,,US,15/04/2023,Keyboard,3520.15,3.0
+1106,Alice Johnson,male,54.0,INDIA,16/04/2023,Laptop,2113.91,3.0
+1107,BOB SMITH,FEMALE,44.0,usa,17/04/2023,Phone,1643.74,2.0
+1108,carol white,Male,45.0,India,18/04/2023,Tablet,1828.81,
+1109,David Lee,female,58.0,USA,19/04/2023,Monitor,1951.48,1.0
+1110,Emma Brown,M,56.0,India,20/04/2023,Keyboard,4319.01,
+1111,Alice Johnson,Female,61.0,India,21/04/2023,Laptop,1114.8,2.0
+1112,BOB SMITH,Male,43.0,USA,22/04/2023,Phone,3690.1,4.0
+1113,carol white,female,48.0,india,23/04/2023,Tablet,2987.69,1.0
+1114,David Lee,M,56.0,United States,24/04/2023,Monitor,1834.3,5.0
+1115,Emma Brown,F,22.0,US,25/04/2023,Keyboard,2389.01,5.0
+1116,Alice Johnson,male,56.0,INDIA,26/04/2023,Laptop,1652.93,2.0
+1117,BOB SMITH,FEMALE,58.0,usa,27/04/2023,Phone,3251.81,1.0
+1118,carol white,Male,35.0,India,28/04/2023,Tablet,867.17,2.0
+1119,David Lee,female,,USA,29/04/2023,Monitor,523.33,3.0
+1120,Emma Brown,M,22.0,India,30/04/2023,Keyboard,3325.52,2.0
+1121,Alice Johnson,Female,26.0,India,01/05/2023,Laptop,1374.23,2.0
+1122,BOB SMITH,Male,47.0,USA,02/05/2023,Phone,819.23,5.0
+1123,carol white,female,35.0,india,03/05/2023,Tablet,2285.53,
+1124,David Lee,M,60.0,United States,04/05/2023,Monitor,728.46,5.0
+1125,Emma Brown,F,48.0,US,05/05/2023,Keyboard,4489.78,3.0
+1126,Alice Johnson,male,30.0,INDIA,06/05/2023,Laptop,624.28,5.0
+1127,BOB SMITH,FEMALE,36.0,usa,07/05/2023,Phone,3104.89,1.0
+1128,carol white,Male,36.0,India,08/05/2023,Tablet,2473.13,4.0
+1129,David Lee,female,47.0,USA,09/05/2023,Monitor,3524.12,1.0
+1130,Emma Brown,M,,India,10/05/2023,Keyboard,,1.0
+1131,Alice Johnson,Female,34.0,India,11/05/2023,Laptop,1197.69,5.0
+1132,BOB SMITH,Male,53.0,USA,12/05/2023,Phone,4918.28,4.0
+1133,carol white,female,60.0,india,13/05/2023,Tablet,4275.2,4.0
+1134,David Lee,M,53.0,United States,14/05/2023,Monitor,4371.82,4.0
+1135,Emma Brown,F,25.0,US,15/05/2023,Keyboard,,3.0
+1136,Alice Johnson,male,,INDIA,16/05/2023,Laptop,674.76,5.0
+1137,BOB SMITH,FEMALE,58.0,usa,17/05/2023,Phone,1864.69,4.0
+1138,carol white,Male,44.0,India,18/05/2023,Tablet,2916.87,3.0
+1139,David Lee,female,60.0,USA,19/05/2023,Monitor,1969.93,2.0
+1140,Emma Brown,M,36.0,India,20/05/2023,Keyboard,4225.41,2.0
+1141,Alice Johnson,Female,64.0,India,21/05/2023,Laptop,1721.94,3.0
+1142,BOB SMITH,Male,50.0,USA,22/05/2023,Phone,4843.63,3.0
+1143,carol white,female,57.0,india,23/05/2023,Tablet,2557.69,5.0
+1144,David Lee,M,34.0,United States,24/05/2023,Monitor,4289.1,5.0
+1145,Emma Brown,F,53.0,US,25/05/2023,Keyboard,1374.71,2.0
+1146,Alice Johnson,male,28.0,INDIA,26/05/2023,Laptop,2351.09,
+1147,BOB SMITH,FEMALE,43.0,usa,27/05/2023,Phone,3647.8,2.0
+1148,carol white,Male,49.0,India,28/05/2023,Tablet,1122.59,4.0
+1149,David Lee,female,23.0,USA,29/05/2023,Monitor,1097.35,4.0
+1150,Emma Brown,M,63.0,India,30/05/2023,Keyboard,4862.92,
+1151,Alice Johnson,Female,27.0,India,31/05/2023,Laptop,3715.68,
+1152,BOB SMITH,Male,49.0,USA,01/06/2023,Phone,684.8,
+1153,carol white,female,49.0,india,02/06/2023,Tablet,2294.69,3.0
+1154,David Lee,M,41.0,United States,03/06/2023,Monitor,2450.84,
+1155,Emma Brown,F,51.0,US,04/06/2023,Keyboard,3848.19,4.0
+1156,Alice Johnson,male,32.0,INDIA,05/06/2023,Laptop,1628.87,1.0
+1157,BOB SMITH,FEMALE,49.0,usa,06/06/2023,Phone,1329.5,4.0
+1158,carol white,Male,46.0,India,07/06/2023,Tablet,863.93,1.0
+1159,David Lee,female,60.0,USA,08/06/2023,Monitor,2427.42,1.0
+1160,Emma Brown,M,54.0,India,09/06/2023,Keyboard,3598.25,1.0
+1161,Alice Johnson,Female,22.0,India,10/06/2023,Laptop,761.87,5.0
+1162,BOB SMITH,Male,48.0,USA,11/06/2023,Phone,4618.46,2.0
+1163,carol white,female,34.0,india,12/06/2023,Tablet,2490.59,
+1164,David Lee,M,62.0,United States,13/06/2023,Monitor,1579.04,5.0
+1165,Emma Brown,F,24.0,US,14/06/2023,Keyboard,922.43,5.0
+1166,Alice Johnson,male,,INDIA,15/06/2023,Laptop,1322.9,5.0
+1167,BOB SMITH,FEMALE,27.0,usa,16/06/2023,Phone,4705.76,5.0
+1168,carol white,Male,29.0,India,17/06/2023,Tablet,,5.0
+1169,David Lee,female,48.0,USA,18/06/2023,Monitor,2825.13,3.0
+1170,Emma Brown,M,30.0,India,19/06/2023,Keyboard,3457.0,4.0
+1171,Alice Johnson,Female,58.0,India,20/06/2023,Laptop,2460.53,
+1172,BOB SMITH,Male,54.0,USA,21/06/2023,Phone,3785.18,4.0
+1173,carol white,female,,india,22/06/2023,Tablet,714.72,3.0
+1174,David Lee,M,45.0,United States,23/06/2023,Monitor,3047.17,3.0
+1175,Emma Brown,F,,US,24/06/2023,Keyboard,1213.91,4.0
+1176,Alice Johnson,male,,INDIA,25/06/2023,Laptop,1040.74,1.0
+1177,BOB SMITH,FEMALE,53.0,usa,26/06/2023,Phone,2038.46,2.0
+1178,carol white,Male,45.0,India,27/06/2023,Tablet,913.1,1.0
+1179,David Lee,female,62.0,USA,28/06/2023,Monitor,923.71,1.0
+1180,Emma Brown,M,33.0,India,29/06/2023,Keyboard,1901.36,1.0
+1181,Alice Johnson,Female,60.0,India,30/06/2023,Laptop,4907.8,5.0
+1182,BOB SMITH,Male,,USA,01/07/2023,Phone,1288.99,3.0
+1183,carol white,female,24.0,india,02/07/2023,Tablet,577.22,1.0
+1184,David Lee,M,58.0,United States,03/07/2023,Monitor,3935.14,3.0
+1185,Emma Brown,F,38.0,US,04/07/2023,Keyboard,4131.11,
+1186,Alice Johnson,male,23.0,INDIA,05/07/2023,Laptop,2058.37,2.0
+1187,BOB SMITH,FEMALE,23.0,usa,06/07/2023,Phone,2591.03,4.0
+1188,carol white,Male,49.0,India,07/07/2023,Tablet,3423.98,4.0
+1189,David Lee,female,44.0,USA,08/07/2023,Monitor,716.27,5.0
+1190,Emma Brown,M,58.0,India,09/07/2023,Keyboard,4771.16,2.0
+1191,Alice Johnson,Female,53.0,India,10/07/2023,Laptop,4490.06,
+1192,BOB SMITH,Male,54.0,USA,11/07/2023,Phone,1674.02,4.0
+1193,carol white,female,22.0,india,12/07/2023,Tablet,568.87,
+1194,David Lee,M,40.0,United States,13/07/2023,Monitor,4700.46,2.0
+1195,Emma Brown,F,23.0,US,14/07/2023,Keyboard,2754.68,4.0
+1196,Alice Johnson,male,47.0,INDIA,15/07/2023,Laptop,2927.2,2.0
+1197,BOB SMITH,FEMALE,53.0,usa,16/07/2023,Phone,3577.84,4.0
+1198,carol white,Male,27.0,India,17/07/2023,Tablet,3271.33,4.0
+1199,David Lee,female,53.0,USA,18/07/2023,Monitor,4747.51,5.0
+1200,Emma Brown,M,25.0,India,19/07/2023,Keyboard,4749.13,1.0
+1005,BOB SMITH,Male,,India,2023-06-15,Laptop,,
+1020,alice johnson,F,29.0,USA,15-07-2023,Phone,1299.99,4.0
+1035,EMMA BROWN,female,34.0,india,2023/08/20,Tablet,2450.0,5.0

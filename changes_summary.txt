@@ -1,0 +1,14 @@
+DATA CLEANING CHANGES SUMMARY
+==================================================
+
+1. Removed 0 duplicate rows (before: 203, after: 203)
+2. Standardized column names to lowercase with underscores: ['customer_id', 'customer_name', 'gender', 'age', 'country', 'purchase_date', 'product', 'sales_amount', 'rating']
+3. Standardized 'customer_name' to Title Case.
+4. Standardized 'gender' values to Male/Female/Unknown. Filled 0 unknowns.
+5. Standardized 'country' values. Filled 0 unknowns.
+6. Filled 20 missing 'age' values with median (44).
+7. Filled 11 missing 'sales_amount' values with per-product median.
+8. Filled 21 missing 'rating' values with mode (5).
+9. Converted and standardized 'purchase_date' to dd-mm-yyyy format.
+10. Fixed data types: age→int, sales_amount→float, rating→int.
+11. Outlier check on 'sales_amount': 0 outliers detected (kept, flagged only). Range: [-1467.54, 6955.44]
